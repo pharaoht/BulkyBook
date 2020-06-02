@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+FMn6LyyXRjc4pMReI/o0AFtIKaRupszrm87kunqo7K6n5Rwt3LNP/F5As0Up1H/9eyEWbwAYXXtn/oUO9S7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pharaoh Manson\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pharaoh Manson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
